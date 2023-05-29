@@ -1,8 +1,10 @@
 # Presento
 
-Presento is a dynamic web application with its frontend built using React, TypeScript, and SCSS with the Bootstrap UI library.
+Presento is a dynamic web application built with React, TypeScript, and SCSS, utilizing the Bootstrap UI library.
 
-This app helps people to find the perfect gift for their loved ones. It’s a small service that can be improved and many other features can be added to it. Moreover, it can be added as a part of a big marketplace service. 
+It serves as a comprehensive solution to help people find the perfect gift for their loved ones. With a wide range of options available, Presento caters to all ages, genders, occasions, and budgets. It’s a small service that can be improved and many other features can be added to it.
+
+The application uses secure authentication by utilizing JSON Web Tokens (JWT) to enhance user privacy and ensure data protection.
 
 ## Demo
 
