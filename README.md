@@ -1,31 +1,25 @@
 # Presento
-<hr>
 
-Presento is a service that helps people to find the perfect gift for their loved ones. It has a variety of options 
-for any age, gender, occasion and even budget. It’s a small service that can be improved and many other features can 
-be added to it. Moreover, it can be added as a part of a big marketplace service. From the user's perspective, it’s 
-an easy way to solve a very common but so complicated question: What gift should I bring? At the same time from the 
-business perspective, it’s one more opportunity to advertise the product that you are selling.
+Presento is a dynamic web application with its frontend built using React, TypeScript, and SCSS with the Bootstrap UI library.
 
-![Demo1.png](readme_img%2FDemo1.png)
-![Demo2.png](readme_img%2FDemo2.png)
-![Demo3.png](readme_img%2FDemo3.png)
-![Demo4.png](readme_img%2FDemo4.png)
+This app helps people to find the perfect gift for their loved ones. It’s a small service that can be improved and many other features can be added to it. Moreover, it can be added as a part of a big marketplace service. 
 
-## Check It
+## Demo
 
-[Presento deployed on AWS](http://mate-presento.in.ua/)
+You can view a live demo of the app [HERE](http://mate-presento.in.net/)
 
-## Features:
-<hr>
-
-- JWT authenticated:
-- You can add more gifts through admin panel: /admin/
-- Managing authentication & user registration
-- Searching gifts using various filters: age, gender, occasion, budget, likes
+## Technologies
+ - React
+ - TypeScript
+ - REST API
+ - Axios
+ - JWT authentication
+ - React Router
+ - Formik with Yup
+ - Bootstrap
+ - SCSS
 
 ## Run local with docker
-<hr>
 
 Docker should be installed
 
@@ -43,12 +37,10 @@ Create in root directory of project and fill .env file as shown in .env_sample f
 Open in browser: localhost/
 
 ## Filling .env file
-<hr>
 
 Don't forget to fill .env file as shown in .env_sample.
 
 ## Getting access
-<hr>
 
 You can use following:
 - superuser:
